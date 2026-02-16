@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I am a full-stack developer specializing in the MERN stack, focused on building scalable, high-performance web applications with clean architecture and seamless user experiences. My work revolves around designing robust backend systems, intuitive frontend interfaces, and well-structured APIs.<br><br>Currently, I am expanding into AI integration, exploring Retrieval-Augmented Generation (RAG), LLM-based features, and intelligent automation within real-world applications. I am particularly interested in combining strong engineering fundamentals with practical AI capabilities to build smarter, production-ready systems.<br><br>I am always open to collaborating on impactful full-stack and AI-driven projects that push technical boundaries and deliver meaningful user value.
 
 
