@@ -91,11 +91,11 @@ Currently expanding into **AI integration**: exploring Retrieval-Augmented Gener
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kartikkk007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Kartikkk007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
 
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=Kartikkk007&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikkk007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikkk007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
