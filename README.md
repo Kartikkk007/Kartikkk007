@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-sharma-a57403242)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartiksharma4418@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kartik_sharma4418)
-[![Profile Views](https://visitcount.itsvg.in/api?id=Kartikkk007&icon=6&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Kartikkk007&icon=6&color=1)](https://visitcount.itsvg.in)
 
 </div>
 
