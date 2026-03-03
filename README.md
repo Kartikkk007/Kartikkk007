@@ -28,10 +28,10 @@ I'm a **Full-Stack Developer** specializing in the **MERN stack**, passionate ab
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **AI Code Reviewer** | React, Gemini API, Node.js | Automated code analysis tool that provides real-time feedback and optimization suggestions using LLMs. |
+| **Medical RAG Chatbot** | Python, LangChain, Pinecone | An intelligent healthcare assistant using Retrieval-Augmented Generation (RAG) to provide context-aware medical insights from verified documents. |
+| **Real-time Chat App** | React, Node.js, WebSockets | A high-concurrency messaging platform featuring instant message delivery, room-based chatting, and active user tracking. |
 | **Real-time Chess** | Node.js, Socket.io, Express | A multiplayer strategy game featuring real-time move synchronization and interactive UI. |
 | **AI Interview Coach** | Puter.js, React, CSS | An intelligent platform designed to simulate technical interviews and provide instant performance scoring. |
-| **Email Automation** | Apps Script, Gemini API | A smart automation system that generates personalized, context-aware email responses. |
 
 ---
 
